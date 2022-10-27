@@ -1,0 +1,33 @@
+.container {
+  width: 1920px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.oshibka {
+  width: 1492.91px;
+  height: 1031.04px;
+  background-image: url("../imgs/bacraund/404.png");
+  background-repeat: no-repeat;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.oshibka404 {
+  width: 693px;
+  height: 435px;
+}
+
+.oshibka h2 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 49px;
+  padding: 0 550px;
+  color: #FFFFFF;
+}/*# sourceMappingURL=main.css.map */
